@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <!-- 🔧 edit the i=... list. Full list at skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,vscode,cs,js,python,solidity,ps,git,github&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,vscode,cs,js,python,ps,git,github&theme=dark" alt="skills"/>
 </p>
 
 ## 📊 GitHub Stats
