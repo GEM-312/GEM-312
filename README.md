@@ -20,8 +20,7 @@
 
 <!-- 🔧 One-line bio -->
 <p align="center">
-  📱 Apple-platform apps &nbsp;•&nbsp; 🤖 AI-powered tools &nbsp;•&nbsp; ⛓️ Web3 &amp; smart contracts
-</p>
+  📱 Apple-platform apps &nbsp;•&nbsp; 🤖 AI-powered tools &nbsp;•&nbsp; C#
 
 <!-- ===== Rainbow divider ===== -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%"/>
